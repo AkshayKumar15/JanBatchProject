@@ -16,7 +16,7 @@ public class Google {
 
 		driver.manage().window().maximize();    // maximized the browser
 		Thread.sleep(5000);
-		driver.quit();                         // close the browser (closed all connections)
+	//	driver.quit();                         // close the browser (closed all connections)
 	}
 
 }
